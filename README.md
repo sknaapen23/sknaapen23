@@ -1,8 +1,8 @@
 ### Hi there my name is Simon
+## ![Uploading Art copy.png…](Photo)
 
 <!--
 **sknaapen23/sknaapen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a senior in highschool
-I play the guitar
 I am Dutch and Colombian
