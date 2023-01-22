@@ -1,5 +1,4 @@
 ### Hi there my name is Simon
-## ![Uploading Art copy.png…](Photo)
 
 <!--
 **sknaapen23/sknaapen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
