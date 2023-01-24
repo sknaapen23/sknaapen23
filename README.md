@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2023/01/08/09/34/jellyfish-7704801_1280.jpg" width="400" height="400" border="40"/>
+<img src="https://cdn.pixabay.com/photo/2023/01/08/09/34/jellyfish-7704801_1280.jpg" width="384" height="240" border="40"/>
 </p>
 
 
@@ -27,9 +27,9 @@ By Simon
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-~~Bullet point~~
+~~Hi~~
 
-- Bullet point
+- Hello
 
 
 
