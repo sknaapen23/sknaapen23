@@ -25,7 +25,7 @@ By Simon
 
 [Netflix](https://www.netflix.com "Netflix Login")
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[Stake](https://www.stake.com "Gambling")
 
 ~~Hi~~
 
