@@ -18,11 +18,11 @@
 
 By Simon
 
-[Google](https://www.google.com "Google's Homepage")
+[Google](https://www.google.com "Google's Homepage") Why not?
 
-[Netflix](https://www.netflix.com "Netflix Login")
+[Netflix](https://www.netflix.com "Netflix Login") Great form of entertainment
 
-[Stake](https://www.stake.com "Gambling")
+[Stake](https://www.stake.com "Gambling") Most gamblers stop gambling before their big win
 
 ~~Hi~~
 
