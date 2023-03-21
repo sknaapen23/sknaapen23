@@ -1,6 +1,6 @@
 # Im Simon
-## 1
-### 2
+## I am 17
+### I go to ACS
 #### 3
 ##### 4
 ###### 5
@@ -8,14 +8,11 @@
 <h3 align="center"> Goodmorning </h3>
 
 
-<p align="center">
-<img src="https://cdn.pixabay.com/photo/2023/01/08/09/34/jellyfish-7704801_1280.jpg" width="384" height="240" border="40"/>
-</p>
 
+![alt text](https://cdn.pixabay.com/photo/2023/01/08/09/34/jellyfish-7704801_1280.jpg)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/123291803/213927828-c13ae7d2-7d57-4520-bad2-ba86f809f20b.gif" />
-</p>
+![alt text](https://user-images.githubusercontent.com/123291803/213927828-c13ae7d2-7d57-4520-bad2-ba86f809f20b.gif)
+
 
 
 
