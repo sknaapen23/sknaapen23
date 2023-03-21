@@ -16,7 +16,14 @@
 
 
 
-By Simon
+By Simon [^1].
+
+
+
+[^1]: Thats me. 
+
+
+
 
 [Google](https://www.google.com "Google's Homepage") Why not?
 
@@ -27,6 +34,12 @@ By Simon
 ~~Hi~~
 
 - Hello
+
+
+
+
+
+
 
 
 
